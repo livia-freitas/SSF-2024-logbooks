@@ -1,0 +1,7 @@
+data
+envs
+*.egg-info
+.ipynb_checkpoints
+figures
+*pycache*
+*.csv
