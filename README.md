@@ -1,6 +1,6 @@
 # SSF-2024-logbooks
 
-## Python code that cleans, processes, and plots data from Portuguese naval logbooks. Main objective is to gather climactic, geographic, and chronological information. 
+## Python code that cleans, processes, and plots data from Portuguese naval logbooks. 
 
 ### Part of the "Historical Records" project led by Dr. Caroline Ummenhofer
 
